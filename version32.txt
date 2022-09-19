@@ -1,0 +1,16 @@
+		v	crit
+4_test.py	31	31
+7_test.py	29	29
+13_e_test.py	24	20
+14_test.py	18	18
+16_a_test.py	18	18
+16_b_test.py	18	18
+17_a_test.py	18	18
+17_b_test.py	18	18
+18_test.py	19	32
+19_test.py	27	26
+22_o_test.py	30	14
+32_d_test.py	1	1
+32_e_test.py	6	6
+33_test.py	24	23
+101_test.py	17	15
